@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="solana" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9945FF"/>
+      <stop offset="50%" stop-color="#19FB9B"/>
+      <stop offset="100%" stop-color="#05E6E6"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="200" r="180" fill="url(#solana)" stroke="#ffffff" stroke-width="6"/>
+  <path d="M100 160 Q90 120 130 100 Q160 130 200 120 Q240 130 270 100 Q310 120 300 160 Q320 230 200 260 Q80 230 100 160Z" fill="#fff" stroke="#111" stroke-width="3"/>
+  <circle cx="160" cy="180" r="12" fill="#111"/>
+  <circle cx="240" cy="180" r="12" fill="#111"/>
+  <path d="M195 195 Q200 200 205 195" stroke="#111" stroke-width="3" fill="none"/>
+  <path d="M200 200 Q200 210 190 215" stroke="#111" stroke-width="3" fill="none"/>
+  <path d="M200 200 Q200 210 210 215" stroke="#111" stroke-width="3" fill="none"/>
+  <text x="200" y="340" text-anchor="middle" font-family="Poppins, sans-serif" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="2" style="text-shadow:0 0 10px rgba(0,0,0,0.5);">SOLCAT</text>
+</svg>
